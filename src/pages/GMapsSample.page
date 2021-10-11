@@ -1,4 +1,4 @@
-<apex:page standardController="Account" extensions="SystemConfigureController">  
+<apex:page standardController="Account">  
  <apex:pageMessages id="pgMsg"/> 
  <head>
      <meta name="viewport" content="initial-scale=1.0, user-scalable=no"/>
@@ -29,9 +29,9 @@
     </style>
   </head>
   <body>
-    <apex:form >
+    <!--<apex:form >
         <apex:commandButton action="{!scheduleUPWebhookPinger}" value="Schedule UPWebhook Pinger"/>  
-   </apex:form>
+   </apex:form>-->
       <br/>
     <div id="floating-panel">
     <b>Mode of Travel: </b>
