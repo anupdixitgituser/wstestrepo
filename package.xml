@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ApexComponent</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ApexPage</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ApexTrigger</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>CustomObjectTranslation</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>MehmaanNawaziIcons</members>
+        <members>MehmaanNawaziIcons/EmployeeTabIcon.png</members>
+        <members>MehmaanNawaziIcons/InventoryTabIcon.png</members>
+        <members>MehmaanNawaziIcons/InvoiceTabIcon.png</members>
+        <members>MehmaanNawaziIcons/MehmaanNawaziLogo.jpg</members>
+        <members>MehmaanNawaziIcons/ReservationIcon.png</members>
+        <members>MehmaanNawaziIcons/RestaurantLogo.png</members>
+	    <members>MehmaanNawaziIcons/ApplicationBackgroundImage.jpg</members>
+        <members>MehmaanNawaziIcons/MenuBackgroundImage.jpg</members>
+        <members>MehmaanNawaziIcons/MenuHeaderPageBackGround.jpg</members>
+		<members>MehmaanNawaziIcons/MenuLastPageBackGround.jpg</members>
+		<members>MehmaanNawaziIcons/MenuCoverPage.jpg</members>
+		<members>MehmaanNawaziIcons/ReportsIcon.png</members>
+		<members>MehmaanNawaziIcons/AuthTabIcon.png</members>
+		<members>MehmaanNawaziIcons/TbleTabIcon.gif</members>
+		<members>MehmaanNawaziIcons/OrdrTabIcon.jpg</members>
+		<members>MehmaanNawaziIcons/GuesTabIcon.png</members>
+		<members>MehmaanNawaziIcons/OptTabIcon.png</members>
+		<members>MehmaanNawaziIcons/Dashboard.png</members>			
+		<members>MehmaanNawaziIcons/go_next_icon_png.png</members>
+		<members>MehmaanNawaziIcons/Search_icon_png.png</members>
+		<members>MehmaanNawaziIcons/InventoryMenuIcon.jpg</members>
+		<members>MehmaanNawaziIcons/InventoryIcon.jpg</members>
+		<members>MehmaanNawaziIcons/POIcon.png</members>
+		<members>MehmaanNawaziIcons/SupplierIcon.png</members>
+		<members>MehmaanNawaziIcons/ScheduleIcon.jpg</members>
+		<members>MehmaanNawaziIcons/ShiftIcon.png</members>
+		<members>MehmaanNawaziIcons/MehmaanNawaziLogoMini.png</members>
+		<members>MehmaanNawaziIcons/EmplClkIcon.png</members>
+		<members>MehmaanNawaziIcons/EmplLeaveIcon.png</members>
+		<members>MehmaanNawaziIcons/EmplMainMenuIcon.png</members>
+		<members>MehmaanNawaziIcons/EmplPayslipEvents.png</members>
+		<members>MehmaanNawaziIcons/EmplSMSIcon.png</members>
+		<members>MehmaanNawaziIcons/ScheduleIcon.jpg</members>
+		<members>MehmaanNawaziIcons/ShiftIcon.png</members>
+		<members>MehmaanNawaziIcons/CRMIcon.png</members>
+		<members>MehmaanNawaziIcons/GuestReviewIcon.png</members>
+		<members>MehmaanNawaziIcons/InventoryIcon.jpg</members>
+		<members>MehmaanNawaziIcons/LoyaltyRulesIcon.png</members>
+		<members>MehmaanNawaziIcons/NewOrderIcon.png</members>
+		<members>MehmaanNawaziIcons/POIcon.png</members>
+		<members>MehmaanNawaziIcons/SupplierIcon.png</members>
+		<members>MehmaanNawaziIcons/AnalyticsIcon.png</members>
+		<members>MehmaanNawaziIcons/CategoryMenuIcon.png</members>
+		<members>MehmaanNawaziIcons/ChoiceGrpIcon.png</members>
+		<members>MehmaanNawaziIcons/ConfigIcon.png</members>
+		<members>MehmaanNawaziIcons/MenuOptIcon.png</members>
+		<members>MehmaanNawaziIcons/RecipeMenuIcon.png</members>
+		<members>MehmaanNawaziIcons/RestLocationIcon.png</members>
+		<members>MehmaanNawaziIcons/HomeIcon.png</members>
+		<members>MehmaanNawaziIcons/LogoffIcon.png</members>
+		<members>MehmaanNawaziIcons/LogoffIcon.png</members>
+		<members>MehmaanNawaziDocs</members>
+		<members>MehmaanNawaziDocs/Country_Codes.csv</members>		
+		<members>MehmaanNawaziDocs/State_Codes_With_Country_Code.csv</members>
+		<members>MehmaanNawaziDocs/Indian_States.csv</members>
+		<members>MehmaanNawaziDocs/US_States.csv</members>
+		<members>BirthdayMsgImages</members>
+		<members>BirthdayMsgImages/BDAY_MSG_IMG_01.jpg</members>
+		<members>BirthdayMsgImages/BDAY_MSG_IMG_02.jpg</members>
+		<members>BirthdayMsgImages/BDAY_MSG_IMG_03.jpg</members>
+		<members>BirthdayMsgImages/BDAY_MSG_IMG_04.jpg</members>
+		<members>BirthdayMsgImages/BDAY_MSG_IMG_05.jpg</members>
+		<members>BirthdayMsgImages/BDAY_MSG_IMG_06.jpg</members>
+		<members>BirthdayMsgImages/BDAY_MSG_IMG_07.jpg</members>
+		<members>BirthdayMsgImages/BDAY_MSG_IMG_08.jpg</members>
+		<members>BirthdayMsgImages/BDAY_MSG_IMG_09.jpg</members>
+		<members>BirthdayMsgImages/BDAY_MSG_IMG_10.jpg</members>
+		<members>BirthdayMsgImages/BDAY_MSG_IMG_11.jpg</members>
+		<members>BirthdayMsgImages/BDAY_MSG_IMG_12.jpg</members>
+		<members>BirthdayMsgImages/BDAY_MSG_IMG_13.jpg</members>
+		<members>BirthdayMsgImages/BDAY_MSG_IMG_14.jpg</members>
+		<members>BirthdayMsgImages/BDAY_MSG_IMG_15.jpg</members>
+		<members>BirthdayMsgImages/BDAY_MSG_IMG_16.jpg</members>
+		<members>BirthdayMsgImages/BDAY_MSG_IMG_17.jpg</members>
+		<members>BirthdayMsgImages/BDAY_MSG_IMG_18.jpg</members>
+		<members>AnniversaryMsgImages</members>
+		<members>AnniversaryMsgImages/WDAY_MSG_IMG_01.jpg</members>
+		<members>AnniversaryMsgImages/WDAY_MSG_IMG_02.jpg</members>
+		<members>AnniversaryMsgImages/WDAY_MSG_IMG_03.jpg</members>
+		<members>AnniversaryMsgImages/WDAY_MSG_IMG_04.jpg</members>
+		<members>AnniversaryMsgImages/WDAY_MSG_IMG_05.jpg</members>
+		<members>AnniversaryMsgImages/WDAY_MSG_IMG_06.jpg</members>
+		<members>AnniversaryMsgImages/WDAY_MSG_IMG_07.png</members>
+		<members>AnniversaryMsgImages/WDAY_MSG_IMG_08.jpg</members>
+		<members>AnniversaryMsgImages/WDAY_MSG_IMG_09.jpg</members>
+		<members>AnniversaryMsgImages/WDAY_MSG_IMG_10.jpg</members>
+		<members>AnniversaryMsgImages/WDAY_MSG_IMG_11.jpg</members>
+		<members>AnniversaryMsgImages/WDAY_MSG_IMG_12.jpg</members>
+		<members>AnniversaryMsgImages/WDAY_MSG_IMG_13.jpg</members>
+		<members>AnniversaryMsgImages/WDAY_MSG_IMG_14.jpg</members>
+		<members>AnniversaryMsgImages/WDAY_MSG_IMG_15.jpg</members>
+		<members>AnniversaryMsgImages/WDAY_MSG_IMG_16.jpg</members>
+		<members>AnniversaryMsgImages/WDAY_MSG_IMG_17.jpg</members>
+		<members>AnniversaryMsgImages/WDAY_MSG_IMG_18.jpg</members>
+		<members>AnniversaryMsgImages/WDAY_MSG_IMG_19.jpg</members>
+		<members>AnniversaryMsgImages/WDAY_MSG_IMG_20.jpg</members>
+		<members>AnniversaryMsgImages/WDAY_MSG_IMG_21.jpg</members>
+		<members>AnniversaryMsgImages/WDAY_MSG_IMG_22.jpg</members>
+		<members>AnniversaryMsgImages/WDAY_MSG_IMG_23.jpg</members>
+        <name>Document</name>
+    </types>
+    <types>
+        <members>MehmaanEmailTemplates</members>
+        <members>MehmaanEmailTemplates/EmpNegLeaveBalanceEmailAlertTemplate</members>
+        <members>MehmaanEmailTemplates/EmplLeaveApprovalEmailTemplate</members>
+        <members>MehmaanEmailTemplates/EmplLeaveCancelApprovalEmailTemplate</members>
+        <members>MehmaanEmailTemplates/EmplLeaveCancelReqEmailTemplate</members>
+        <members>MehmaanEmailTemplates/EmplLeaveCancelReqRecallEmailTemplate</members>
+        <members>MehmaanEmailTemplates/EmplLeaveCanecelReqRejectionEmailTemplate</members>
+        <members>MehmaanEmailTemplates/EmplLeaveRecallEmailTemplate</members>
+        <members>MehmaanEmailTemplates/EmplLeaveRejectionEmailTemplate</members>
+        <members>MehmaanEmailTemplates/EmplLeaveRequestEmailTemplate</members>
+        <members>MehmaanEmailTemplates/LeaveCancelRequestEmailTemplate</members>
+        <members>MehmaanEmailTemplates/LeaveRequestEmailTemplate</members>
+        <members>MehmaanEmailTemplates/ManagerNegLeaveBalanceEmailAlertTemplate</members>
+        <members>MehmaanEmailTemplates/MehmaanAdvancedReservationAlertTemplate</members>
+        <members>MehmaanEmailTemplates/MehmaanInventoryReorderAlertTemplate</members>
+        <members>MehmaanEmailTemplates/MehmaanOrderAlertTemplate</members>
+        <members>MehmaanEmailTemplates/MehmaanOrderCookingStatusAlertTemplate</members>
+        <members>MehmaanEmailTemplates/MehmaanOrderUpdateAlertTemplate</members>
+		<members>MehmaanEmailTemplates/EmpLeaveCancelAutoApprovalEmailTemplate</members>
+		<members>MehmaanEmailTemplates/LeaveAutoCancelRequestEmailTemplate</members>
+		<members>MehmaanEmailTemplates/Mehmaan_General_Email_Template</members>
+		<members>MehmaanEmailTemplates/EmplBirthdayEmailTemplate1</members>
+		<members>MehmaanEmailTemplates/EmplWDayEmailTemplate1</members>
+		<members>MehmaanEmailTemplates/GuestBirthDayPromoMsgTemplate</members>
+		<members>MehmaanEmailTemplates/GuestBirthdayEmailTemplate1</members>
+		<members>MehmaanEmailTemplates/GuestBirthdayEmailTemplate</members>
+		<members>MehmaanEmailTemplates/MehmaanInventorySurplusAlertTemplate</members>
+		<members>MehmaanEmailTemplates/GuestWDayPromoMsgTemplate</members>
+		<members>MehmaanEmailTemplates/GuestWDayEmailTemplate1</members>
+		<members>MehmaanEmailTemplates/GuestWDayEmailTemplate</members>
+		<members>MehmaanEmailTemplates/GuestThanksEmailMsgTemplate</members>
+		<members>MehmaanEmailTemplates/GuestThanksEmailTemplate</members>
+		<members>MehmaanEmailTemplates/GuestThanksEmailTemplate1</members>
+		<members>MehmaanEmailTemplates/GuestAutoRewardLoyaltyMsg</members>		
+		<members>MehmaanEmailTemplates/GuestPurchasedFrequencyRewardLoyaltyMsg</members>
+		<members>MehmaanEmailTemplates/GuestBankablePtsRewardLoyaltyMsg</members>
+		<members>MehmaanEmailTemplates/GuestVisitFrequencyCuisineRewardLoyaltyMsg</members>
+		<members>MehmaanEmailTemplates/GuestVisitFrequencyRewardLoyaltyMsg</members>
+		<members>MehmaanEmailTemplates/MehmaanGiftCardNotifyEmail</members>
+        <name>EmailTemplate</name>
+    </types>
+    <types>
+        <members>LoginCaptureComponent</members>
+        <name>HomePageComponent</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>HomePageLayout</name>
+    </types>
+    <types>
+        <members>Advanced_Reservation__c-Advanced Reservation Layout</members>
+        <members>ClockInOutSummary__c-ClockInOutSummary Layout</members>
+        <members>ClockInOutTime__c-ClockInOutTime Layout</members>
+        <members>Customer__c-Customer Layout</members>
+        <members>Dining_Table__c-Dining_Table Layout</members>
+        <members>Edu_Qualification__c-Edu_Qualification Layout</members>
+        <members>EmployeeAvailability__c-EmployeeAvailability Layout</members>
+        <members>EmployeeDailySchedule__c-EmployeeDailySchedule Layout</members>
+        <members>EmployeeLeaves__c-EmployeeLeaves Layout</members>
+        <members>EmployeeSchedule__c-EmployeeSchedule Layout</members>
+        <members>Employee_Experience__c-Employee Experience Layout</members>
+        <members>Employee__c-Employee Layout</members>
+        <members>Inventory_Transactions__c-Inventory Transaction Layout</members>
+        <members>Inventory__c-Inventory Layout</members>
+        <members>Inventory__c-Inventory_Layout_for_SCW</members>
+        <members>Invoice__c-Invoice Layout</members>
+        <members>Mehmaan_Accounts__c-Accounts Layout</members>
+        <members>MenuRestaurantJunction__c-MenuRestaurantJunction Layout</members>
+        <members>Menu__c-Menu Layout</members>
+        <members>Order_LineItem__c-OrderLineItemLayoutForCook</members>
+        <members>Order_LineItem__c-Order_LineItem Layout</members>
+        <members>Order__c-Order Layout</members>
+        <members>Order__c-OrderLayoutForCook</members>
+        <members>RecipeRestaurantJunction__c-RecipeRestaurantJunction Layout</members>
+        <members>Recipe__c-Recipe Layout</members>
+		<members>RecipeChoiceGroup__c-Recipe Choice Group Layout</members>
+        <members>RestAuthUsers__c-Restaurant Authorization Layout</members>
+        <members>Restaurant__c-Restaurant Layout</members>
+        <members>SMS_Email_Messages__c-SMS Email Messages Layout</members>
+        <members>SalaryEventDetail__c-SalaryEventDetail Layout</members>
+        <members>SalaryEvent__c-SalaryEvent Layout</members>
+        <members>Salary__c-Salary Layout</members>
+        <members>ScheduingEvent__c-ScheduingEvent Layout</members>
+        <members>Shift__c-Shift Layout</members>
+        <members>User-User Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>Letterhead</name>
+    </types>
+    <types>
+        <members>Admin</members>
+        <members>RestaurantBartenderProfile</members>
+        <members>RestaurantBusserProfile</members>
+        <members>RestaurantChiefCookProfile</members>
+        <members>RestaurantCookProfile</members>
+        <members>RestaurantDeliveryBoyProfile</members>
+        <members>RestaurantDishwasherProfile</members>
+        <members>RestaurantGMProfile</members>
+        <members>RestaurantHostProfile</members>
+        <members>RestaurantManagerProfile</members>
+        <members>RestaurantOwnerProfile</members>
+        <members>RestaurantSalesRepProfile</members>
+        <members>RestaurantWaiterProfile</members>
+        <name>Profile</name>
+    </types>
+	<types>
+        <members>*</members>
+        <name>PermissionSet</name>
+    </types>
+    <types>
+        <members>MehmaanReports</members>
+        <members>MehmaanReports/Mehmaan_Sales_Report_For_This_Week</members>
+        <members>MehmaanReports/Mehmaan_Sales_Report_For_Today</members>
+        <name>Report</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ReportType</name>
+    </types>
+    <types>
+        <members>Rest_Admin</members>
+        <members>Rest_Bartender</members>
+        <members>Rest_Busser</members>
+        <members>Rest_Chief_Cook</members>
+        <members>Rest_Delivery_Boy</members>
+        <members>Rest_Dish_Washer</members>
+        <members>Rest_GM</members>
+        <members>Rest_Host</members>
+        <members>Rest_Manager</members>
+        <members>Rest_Owner</members>
+        <members>Rest_SalesRep</members>
+        <members>Rest_Waiter</members>
+        <members>RestaurantCook</members>
+        <name>Role</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>StaticResource</name>
+    </types>
+    <types>
+        <members>Advanced_Reservation__c</members>
+        <members>Customer__c</members>
+        <members>Dining_Table__c</members>
+        <members>Edu_Qualification__c</members>
+        <members>EmployeeLeaves__c</members>
+        <members>Employee_Experience__c</members>
+        <members>Employee__c</members>
+        <members>Foundation_Cities__c</members>
+        <members>Foundation_Countries__c</members>
+        <members>Foundation_States__c</members>
+        <members>Inventory_Transactions__c</members>
+        <members>Inventory__c</members>
+        <members>Invoice__c</members>
+        <members>Mehmaan_Accounts__c</members>
+        <members>Menu__c</members>
+        <members>Order_LineItem__c</members>
+        <members>Order_Settings__c</members>
+        <members>Order__c</members>
+        <members>Recipe__c</members>
+        <members>Restaurant__c</members>
+        <members>Salary__c</members>
+		<members>Loyalty_Card__c</members>
+        <name>Workflow</name>
+    </types>
+	<types> 
+		<members>*</members> 
+		<name>ApprovalProcess</name> 
+	</types>	
+	<types> 
+		<members>*</members> 
+		<name>RemoteSiteSetting</name> 
+	</types>	
+	 <types>
+        <members>*</members>
+        <name>ConnectedApp</name>
+    </types>	
+    <version>31.0</version>
+</Package>
