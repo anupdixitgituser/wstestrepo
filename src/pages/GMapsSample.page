@@ -34,7 +34,7 @@
    </apex:form>-->
       <br/>
     <div id="floating-panel">
-    <b>Mode of Travel GMapSample Page 11:12: </b>
+    <b>Mode of Travel GMapSample Page 11:39 AM 12Oct: </b>
     <select id="mode">
       <option value="DRIVING">Driving</option>
       <option value="WALKING">Walking</option>
