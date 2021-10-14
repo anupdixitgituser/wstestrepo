@@ -57,7 +57,7 @@ public with sharing class SampleDataController {
     private static void randomizeDateListed(List<Property__c> properties) {
         for (Property__c property : properties) {
             property.Date_Listed__c =
-                System.today() - Integer.valueof((Math.random() * 90));
+                System.today() - Integer.valueof((Math.random() * 120));
         }
     }
 }
